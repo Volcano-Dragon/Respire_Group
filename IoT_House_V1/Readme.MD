@@ -3,4 +3,10 @@ experimentation. It integrates multiple sensors, actuators, and wireless control
 monitoring, and smart decision-making. The kit supports 10+ activities ranging from basic sensor interfacing to
 advanced home automation using a web-based dashboard.
 
-![IoT_House_Ciruit_Diagram](IoT_House_Connection.png?raw=true "Title")
+![IoT_House_Ciruit_Diagram](IoT_House_Connection.png)
+*Figure 1: IoT_House_Ciruit_Diagram*
+<br>
+<br>
+![IoT_House](Step 12.png)
+*Figure 2: IoT_House*
+
