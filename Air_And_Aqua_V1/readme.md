@@ -3,7 +3,7 @@ and soil moisture in real-time. It uses multiple sensors to collect environmenta
 screen. This kit helps in understanding IoT-based monitoring and multi-sensor data integration.
 
 <p align="center">
-  <img src="Air_And_Aqua_Connection.png" width="500">
+  <img src="Air And Aqua connection.png" width="500">
   <br>
   <em>Figure 1: Air_And_Aqua_Ciruit_Diagram</em>
 </p>
@@ -11,7 +11,7 @@ screen. This kit helps in understanding IoT-based monitoring and multi-sensor da
 <br>
 
 <p align="center">
-  <img src="IoT_House_Connection.png" width="500">
+  <img src="Air_Aqua.png" width="500">
   <br>
   <em>Figure 2: Air_And_Aqua</em>
 </p>
