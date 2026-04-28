@@ -7,6 +7,6 @@ advanced home automation using a web-based dashboard.
 *Figure 1: IoT_House_Ciruit_Diagram*
 <br>
 <br>
-![IoT_House](Step 12.png)
+![IoT_House]("Step 12".png)
 *Figure 2: IoT_House*
 
